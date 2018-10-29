@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 "Name : Muhammad Adil " 
-=======
-"Name :  Adil Hameed" 
->>>>>>> 594c4a16614f2ab480e8da2e343b0f5c03ab2e9f
 Email: adil.hameed49@ucp.edu.pk
 Faculty Of Information Technology
 UCP
